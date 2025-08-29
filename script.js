@@ -1,4 +1,4 @@
-// Enhanced URL Shortener with Storage Manager Integration
+// URL Shortener with Storage Manager Integration
 class SecureURLShortener {
     constructor() {
         this.currentShortUrl = null;
