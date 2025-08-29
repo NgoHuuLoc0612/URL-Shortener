@@ -2,7 +2,7 @@
 
 ## Abstract
 
-SecureURL is a comprehensive, client-side URL shortening Progressive Web Application (PWA) designed with enterprise-grade security features, advanced analytics capabilities, and offline functionality. This application implements modern web technologies including IndexedDB for persistent storage, service workers for offline operation, and real-time malware detection to provide a secure and reliable URL shortening service.
+SecureURL is a client-side URL shortening Progressive Web Application (PWA) designed with enterprise-grade security features, advanced analytics capabilities, and offline functionality. This application implements modern web technologies including IndexedDB for persistent storage, service workers for offline operation, and real-time malware detection to provide a secure and reliable URL shortening service.
 
 ## Table of Contents
 
