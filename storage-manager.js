@@ -1,4 +1,4 @@
-// Advanced Storage Manager with IndexedDB, localStorage and caching
+// Storage Manager with IndexedDB, localStorage and caching
 class StorageManager {
     constructor() {
         this.dbName = 'SecureURLShortenerDB';
