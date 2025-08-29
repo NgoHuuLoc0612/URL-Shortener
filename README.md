@@ -1,4 +1,4 @@
-# SecureURL - Professional URL Shortening Service
+# SecureURL - URL Shortening Service
 
 ## Abstract
 
